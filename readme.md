@@ -25,7 +25,7 @@ Currently focused on AI-powered products, developer tools, automation, and local
 
 A project exploring persistent AI memory, intelligent retrieval, organization, and useful automation without treating your data as someone else's.
 
-→ [Explore Nexora](#)
+→ [Explore Nexora](https://github.com/Abdullah1kh/Nexora)
 
 ### ⚒️ ReadmeForge
 
@@ -33,7 +33,7 @@ A project exploring persistent AI memory, intelligent retrieval, organization, a
 
 Analyze a codebase, understand what it actually does, and turn it into a professional GitHub README — without manually writing everything from scratch.
 
-→ [Explore ReadmeForge](#)
+→ [Explore ReadmeForge](https://github.com/Abdullah1kh/readmeforge)
 
 ---
 
